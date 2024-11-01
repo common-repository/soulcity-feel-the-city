@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Soul.City\n"
+"POT-Creation-Date: 2016-03-14 10:04-0400\n"
+"PO-Revision-Date: 2016-03-14 10:07-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: soul-city-iframe.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: SoulCityIframeMeta.php:23
+msgid "Soul City Iframe"
+msgstr "Soul City Iframe"
+
+#: SoulCityIframeMeta.php:118
+msgid "Show the Soul City Iframe on this post"
+msgstr "Afficher l’iframe Soul City sur cette article"
+
+#: SoulCityIframeMeta.php:126
+msgid "What this post is talking about ?"
+msgstr "De quoi ce post parle ?"
+
+#: SoulCityIframeOption.php:50
+msgid "Enable for all post"
+msgstr "Activer pour tous les articles"
+
+#: SoulCityIframeOption.php:68
+msgid "Voting Statistics"
+msgstr "Statistiques de vote"
+
+#: SoulCityIframeOption.php:72
+msgid "Blog Post"
+msgstr "Articles du Blog"
+
+#: SoulCityIframeOption.php:73
+msgid "Total Vote"
+msgstr "Nombre de vote"
+
+#: SoulCityIframeOption.php:74
+msgid "Vote per Feeling"
+msgstr "Vote par « feeling »"
+
+#. Plugin Name of the plugin/theme
+msgid "Soul.City"
+msgstr "Soul.City"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.soul.city/"
+msgstr "http://www.soul.city/"
+
+#. Description of the plugin/theme
+msgid "Vote your “feeling” of a place"
+msgstr "Faire voter pour les “feelings” d’un lieu"
+
+#. Author of the plugin/theme
+msgid "Soul City"
+msgstr "Soul City"
+
+#. readme.txt:10
+msgid ""
+"At Soul.City, we challenged ourselves to help our users discover a city "
+"through their feelings.  We all have a different way to experience things, "
+"places, moments… There are plenty of guide books out there, for every kind "
+"of traveller, and in every kind of format, whether it be paper, blogs, or "
+"mobile apps.  But none, however, take into consideration the notion of “how "
+"I feel right now”."
+msgstr ""
+"Soul.City s’est lancé un défi, faire découvrir l’âme des villes à travers "
+"les “feelings” des voyageurs. Nous avons chacun une autre façon de ressentir "
+"les choses, les lieux, les moments… Il existe de nombreux guides, de toutes "
+"sortes et pour tous les types de voyageurs, qu’ils soient sous format "
+"papier, blogs ou applications mobiles. Par contre, aucun guide ne prend en "
+"compte les “feelings” du moment, de l’instant."
+
+#. readme.txt:12
+msgid ""
+"At Soul.City we thus aimed to put feelings onto… everything!  The challenge, "
+"however, is Herculean in its scope.  How does one determine whether a place "
+"is romantic, or girly, or will make the kids happy?"
+msgstr ""
+"Chez Soul.City on s’est donc décidé d’essayer de le faire, mais nous nous "
+"sommes retrouvé devant un enjeu de taille, comment déterminer que tel ou tel "
+"lieu est plus “romantique” qu’un autre, ou “girly” ou adapté quand on veut "
+"“rendre les enfants heureux” ?"
+
+#. readme.txt:14
+msgid ""
+"A lot of bloggers with a specific interest already discuss places, "
+"restaurants, shops, monuments, cafés, neighbourhoods… and are doing a great "
+"job at it!  So how do we convince them and their followers to help us "
+"determine a “feeling” for all the places they visit and critique?"
+msgstr ""
+"De nombreux passionnés parlent déjà de lieux, de restaurants, de magasin, de "
+"monuments, de quartiers, et ils le font déjà très bien. Alors comment leur "
+"donner la possibilité de faire interagir leurs lecteurs pour déterminer le "
+"“feeling” de chaque endroit qu’ils visitent et critiquent ?"
+
+#. readme.txt:16
+msgid ""
+"We created a simple WordPress plugin which, once installed, allows the "
+"viewing of a range of pre-determined “feelings”, upon which people can cast "
+"their votes.  The votes are saved and statistics are readily available for "
+"the author and his/her followers to view."
+msgstr ""
+"Nous avons imaginé un plugin WordPress très simple, qui, une fois installé "
+"permet d’afficher un bloc avec les “feelings” sur lesquels on peut cliquer "
+"pour voter. Les votes sont enregistrés et les statistiques sont disponibles "
+"pour l’auteur et ses lecteurs."
+
+#. readme.txt:18
+msgid ""
+"The plugin also creates a link to GoogleMaps’s API and may be activated on "
+"any or all blog posts.  Moreover, it allows to view voting statistics live "
+"on every blog post."
+msgstr ""
+"Le plugin permet d’indiquer un endroit à travers l’API GoogleMap et peut "
+"s’activer sur un post ou sur tous les posts. Il permet également de voir les "
+"statistiques de vote sur chaque billet."
+
+#. readme.txt:20
+msgid ""
+"This plugin is also helpful to us at Soul.City, because it allows us to "
+"identify the most popular places based on user votes, city by city, and to "
+"allow the users to put a feeling vote onto their favourite places.  It thus "
+"helps us determine what people like best in what city, and makes us better "
+"at creating pertinent content!  It also give us the opportunity to know our "
+"blogging collaborators.  The top ones will be invited to participate in the "
+"production of itineraries in their own cities!"
+msgstr ""
+"Ce module permet à soul.city d’identifier les lieux les plus votés, ville "
+"par ville, et de déterminer quels lieux sont plebiscités et quel feeling est "
+"majoritairement ressenti pour chaque endroit. Grâce à ces précieux "
+"renseignements soul.city est en mesure de déterminer les prochaines villes "
+"dans lesquels il faudra déployer l’application, mais aussi quels sont les "
+"lieux qui pourraient s’intégrer dans les parcours. Il permettra également de "
+"mieux connaître les auteurs, blogueurs, voyageurs et autres défenseurs de "
+"l’âme de leur ville. Les meilleurs seront invités à participer à la "
+"construction de soul.city dans leur ville."
+
+#. readme.txt:22
+msgid ""
+"This function of rating “feelings” will also be available as a widget to "
+"integrate on commerces’ websites, including: shops, restaurants, museums, "
+"and all the places that our users will have voted feelings on."
+msgstr ""
+"Cette fonction est également disponible sous forme de widget a intégrer sur "
+"le site des commerçants, restaurateurs, musées, etc, et de tous ceux qui "
+"tiennent un lieu et qui veulent connaître le feeling ressenti par leurs "
+"visiteurs."
+
+#. readme.txt:24
+msgid ""
+"We at Soul.City are truly proud to bring you this innovative technology to "
+"help everyone live a personalized experience when they are abroad… or at "
+"home!"
+msgstr ""
+"Grâce à ces nouvelles avancées, soul.city entend devenir le guide "
+"incontournable orientant les visiteurs d’une ville à travers leurs feelings."

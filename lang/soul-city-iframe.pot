@@ -1,0 +1,102 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Soul.City\n"
+"POT-Creation-Date: 2016-03-11 11:46-0500\n"
+"PO-Revision-Date: 2016-03-11 11:20-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: soul-city-iframe.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: SoulCityIframeMeta.php:23
+msgid "Soul City Iframe"
+msgstr ""
+
+#: SoulCityIframeMeta.php:118
+msgid "Show the Soul City Iframe on this post"
+msgstr ""
+
+#: SoulCityIframeMeta.php:126
+msgid "What this post is talking about ?"
+msgstr ""
+
+#: SoulCityIframeOption.php:50
+msgid "Enable for all post"
+msgstr ""
+
+#: SoulCityIframeOption.php:68
+msgid "Voting Statistics"
+msgstr ""
+
+#: SoulCityIframeOption.php:72
+msgid "Blog Post"
+msgstr ""
+
+#: SoulCityIframeOption.php:73
+msgid "Total Vote"
+msgstr ""
+
+#: SoulCityIframeOption.php:74
+msgid "Vote per Feeling"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Soul.City"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.soul.city/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Vote your “feeling” of a place"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Soul City"
+msgstr ""
+
+#. readme.txt:10
+msgid "At Soul.City, we challenged ourselves to help our users discover a city through their feelings.  We all have a different way to experience things, places, moments… There are plenty of guide books out there, for every kind of traveller, and in every kind of format, whether it be paper, blogs, or mobile apps.  But none, however, take into consideration the notion of “how I feel right now”."
+msgstr ""
+
+#. readme.txt:12
+msgid "At Soul.City we thus aimed to put feelings onto… everything!  The challenge, however, is Herculean in its scope.  How does one determine whether a place is romantic, or girly, or will make the kids happy?"
+msgstr ""
+
+#. readme.txt:14
+msgid "A lot of bloggers with a specific interest already discuss places, restaurants, shops, monuments, cafés, neighbourhoods… and are doing a great job at it!  So how do we convince them and their followers to help us determine a “feeling” for all the places they visit and critique?"
+msgstr ""
+
+#. readme.txt:16
+msgid "We created a simple WordPress plugin which, once installed, allows the viewing of a range of pre-determined “feelings”, upon which people can cast their votes.  The votes are saved and statistics are readily available for the author and his/her followers to view."
+msgstr ""
+
+#. readme.txt:18
+msgid "The plugin also creates a link to GoogleMaps’s API and may be activated on any or all blog posts.  Moreover, it allows to view voting statistics live on every blog post."
+msgstr ""
+
+#. readme.txt:20
+msgid "This plugin is also helpful to us at Soul.City, because it allows us to identify the most popular places based on user votes, city by city, and to allow the users to put a feeling vote onto their favourite places.  It thus helps us determine what people like best in what city, and makes us better at creating pertinent content!  It also give us the opportunity to know our blogging collaborators.  The top ones will be invited to participate in the production of itineraries in their own cities!"
+msgstr ""
+
+#. readme.txt:22
+msgid "This function of rating “feelings” will also be available as a widget to integrate on commerces’ websites, including: shops, restaurants, museums, and all the places that our users will have voted feelings on."
+msgstr ""
+
+#. readme.txt:24
+msgid "We at Soul.City are truly proud to bring you this innovative technology to help everyone live a personalized experience when they are abroad… or at home!"
+msgstr ""
